@@ -1,0 +1,25 @@
+{
+	"target_column": "Survived",
+	"algorithm_list": [{
+			"name": "LogisticRegression"
+		},
+		{
+			"name": "LinearSVC"
+		},
+		{
+			"name": "NaiveBayes"
+		},
+		{
+			"name": "RandomForestClassifier"
+		},
+		{
+			"name": "GBTClassifier"
+		},
+		{
+			"name": "DecisionTreeClassifier"
+		},
+		{
+			"name": "MultilayerPerceptronClassifier"
+		}
+	]
+}
